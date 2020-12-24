@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=uudaemon
+POSTGRES_USER=LHVHzDYNUUSCeHulVzchbABUFaTxvaYi
+POSTGRES_PASSWORD=qFG5SL28YEAkH5idQ9IoMkARPBUvpTuNgYqw7yMRMVZbWZuGvFE1H2gf7XOu1JEC
